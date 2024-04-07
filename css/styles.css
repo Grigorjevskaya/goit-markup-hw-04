@@ -355,10 +355,9 @@ background: #f4f4fd;
         background-color: #404bbf;
 }
 
-.icon-link:focus{
+.icon-link:focus {
         background-color: #404bbf;
 }
-
 
 .team-soc-icon{
         fill:#f4f4fd;
@@ -513,7 +512,7 @@ background: #f4f4fd;
         background-color: #31d0aa;
 }
 
-.footer-icon-link:focus{
+.footer-icon-link:focus {
         background-color: #31d0aa;
 }
 
