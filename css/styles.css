@@ -87,7 +87,7 @@ color: #2e2f42;
 
 .current{
         position: relative;
-        color:#404bbf;;
+        color:#404bbf;
 }
 
 .header-menu-link.current::after {
